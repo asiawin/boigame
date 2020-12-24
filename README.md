@@ -1,2 +1,2 @@
-# boigame
- A small game made with processing 3
+# BoiGame
+ A small game made with Processing 3
